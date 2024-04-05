@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "Picture": "https://i.ibb.co/23fYJ3Q/feedchild.jpg",
+      "Title": "Feed malnourished children",
+      "Category": "Food",
+      "category_bg_color": "rgba(248, 113, 71, 0.2)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_color": "rgba(248, 113, 71)",
+      "description": " Malnutrition can have lifelong consequences for children's health and development. Your support in providing nutritious meals to malnourished children can be life-changing. By nourishing young bodies and minds, you offer them a chance to thrive, learn, and grow. Join us in the mission to eliminate malnutrition and give every child the opportunity for a healthy, promising future.",
+      "price": "450"
+    },
+    {
+      "id": 2,
+      "Picture": "https://i.ibb.co/23mPL8L/Education.png",
+      "Title": "Free education for all",
+      "Category": "Education",
+      "category_bg_color": "rgba(255, 235, 59, 0.2)",
+      "card_bg_color": "rgba(255, 235, 59, 0.15)",
+  "text_color": "rgba(255, 215, 85)",
+      "description": "Education is a fundamental right that should be accessible to everyone, regardless of their circumstances. Our commitment to providing cost-free educational opportunities ensures that no one is left behind. By supporting this initiative, you become a champion of equal access to knowledge and skills, creating a brighter future for all. Join us in breaking down barriers and fostering inclusive education that empowers minds.",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "Picture": "https://i.ibb.co/LgLh7Y1/diabetes.jpg",
+      "Title": "Free diabetes checkup",
+      "Category": "Health",
+      "category_bg_color": "rgba(0, 82, 255, 0.2)",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_color": "rgba(0, 82, 255)",
+      "description": "Prioritizing your health is a crucial step towards a brighter future. Our complimentary diabetes checkup program is designed to make wellness accessible to all. Regular checkups can detect and manage diabetes early, preventing complications. By participating, you not only safeguard your own health but also contribute to the well-being of your community. Join us in fostering a healthier tomorrow, free from the grip of diabetes.",
+      "price": "80"
+    },
+    {
+      "id": 4,
+      "Picture": "https://i.ibb.co/hcJcBHW/classmat.jpg",
+      "Title": "Donate class materials",
+      "Category": "Education",
+      "category_bg_color": "rgba(255, 235, 59, 0.2)",
+      "card_bg_color": "rgba(255, 235, 59, 0.15)",
+  "text_color": "rgba(255, 215, 85)",
+      "description": "Equip young minds with the tools they need to succeed by contributing classroom materials. Your donationscan make a significant difference in the educational journey of students. By providing essential supplies like textbooks, stationery, and learning aids, you enable them to excel academically and achieve their dreams. Join us in supporting the next generation's education and helping them reach their full potential.",
+      "price": "600"
+    },
+    {
+      "id": 5,
+      "Picture": "https://i.ibb.co/0r7jF8n/homeless.jpg",
+      "Title": "Winter clothing for poors",
+      "Category": "Clothing",
+      "category_bg_color": "rgba(121, 194, 63, 0.2)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_color": "rgba(121, 194, 63)",
+      "description": "Winter can be harsh for those without proper clothing to keep warm. Your generosity in donating winter clothing can bring comfort and relief to those in need. By providing jackets, blankets,and warm clothing, you extend a helping hand during the cold months, spreading warmth and hope. Join us in making a difference in the lives of vulnerable individuals, ensuring they stay cozy and protected.",
+      "price": "590"
+    },
+    {
+      "id": 6,
+      "Picture": "https://i.ibb.co/0r7jF8n/homeless.jpg",
+      "Title": "Feed the homeless",
+      "Category": "Food",
+      "category_bg_color": "rgba(248, 113, 71, 0.2)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_color": "rgba(248, 113, 71)",
+      "description": "Extending a helping hand to the homeless is an act of compassion that can change lives. Your generosity in providing warm meals can offer comfort and hope to those facing uncertain circumstances. By participating in or supporting our efforts, you become a source of warmth, sustenance, and humanity for the homeless community. Join us in making a significant impact on their lives and offering a brighter tomorrow.",
+      "price": "150"
+    },
+    {
+      "id": 7,
+      "Picture": "https://i.ibb.co/H2pRFHv/donatebook.jpg",
+      "Title": "Donate old books",
+      "Category": "Education",
+      "category_bg_color": "rgba(255, 235, 59, 0.2)",
+      "card_bg_color": "rgba(255, 235, 59, 0.15)",
+  "text_color": "rgba(255, 215, 85)",
+      "description": "Books are windows to knowledge and dreams. Your generosity in donating your old books can light up the minds of others, especially those with limited access to reading materials. By sharing the joy of reading, you empower individuals to learn, grow, and dream big. Let your old books find new homes and open doors to a world of possibilities for those eager to explore knowledge.",
+      "price": "200"
+    },
+    {
+      "id": 8,
+      "Picture": "https://i.ibb.co/Gd22g7r/cleanwater.jpg",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "category_bg_color": "rgba(0, 82, 255, 0.2)",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_color": "rgba(0, 82, 255)",
+      "description": "Ensuring a brighter future for children means providing them with the most basic necessity: clean, safe water. Your support can be the lifeline for countless youngsters, preventing waterborne diseases and promoting their well-being. Join us in this vitalmission to secure clean water access for children in need, empowering them to thrive and dream without the burden of water scarcity.",
+      "price": "50"
+    },
+    {
+      "id": 9,
+      "Picture": "https://i.ibb.co/QD0JyqZ/Clothing.png",
+      "Title": "School uniforms for children",
+      "Category": "Clothing",
+      "category_bg_color": "rgba(121, 194, 63, 0.2)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_color": "rgba(121, 194, 63)",
+      "description": "School uniforms instill a sense of pride and equality among students. Your contribution can provide disadvantaged children with this essential element of their education. By ensuring that every child has access to a school uniform, you help eliminate barriers to education and empower them to pursue their dreams with confidence. Join us in creating a level playing field for all students and nurturing a brighter future.",
+      "price": "550"
+    },
+    {
+      "id": 10,
+      "Picture": "https://i.ibb.co/n02YWtG/blood.jpg",
+      "Title": "Blood donation",
+      "Category": "Health",
+      "category_bg_color": "rgba(0, 82, 255, 0.2)",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "text_color": "rgba(0, 82, 255)",
+      "description": "Every drop of blood you donate has the power to save a life. Your act of kindness can be the lifeline someone desperately needs during emergencies, surgeries, or medical treatments. By participating in blood donation drives, you become a hero in the truest sense, providing hope and a second chance at life to those in critical conditions. Join us in the noble cause of blood donation and make a profound impact today.",
+      "price": "20"
+    },
+    {
+      "id": 11,
+      "Picture": "https://i.ibb.co/Ct2M9zX/Clothing.png",
+      "Title": "Donate your old clothing",
+      "Category": "Clothing",
+      "category_bg_color": "rgba(121, 194, 63, 0.2)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "text_color": "rgba(121, 194, 63)",
+      "description": "Your gently used clothing can find new life and purpose in the hands of someone less fortunate. By donating your old clothing, you contribute to reducing waste and offering comfort to those in need. Your act of kindness can provide warmth, dignity, and a sense of belonging to individuals facing challenging circumstances. Join us in making a positive impact on both the environment and the lives of others.",
+      "price": "780"
+    },
+    {
+      "id": 12,
+      "Picture": "https://i.ibb.co/82X9Pqj/Food.png",
+      "Title": "Soup kitchen for poors",
+      "Category": "Food",
+      "category_bg_color": "rgba(248, 113, 71, 0.2)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "text_color": "rgba(248, 113, 71)",
+      "description": "Hunger and homelessness are pressing issues, and our soup kitchen is a beacon of hope for those in need. Your support helps us provide nourishing meals to individuals experiencing hardship. By volunteering or contributing, you become part of a compassionate community dedicated to combating hunger and offering a lifeline to those without a stable mealsource. Join us in making a significant difference in the lives of vulnerable individuals.",
+      "price": "650"
+    }
+  ]
