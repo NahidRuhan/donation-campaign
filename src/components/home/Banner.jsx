@@ -24,7 +24,7 @@ const Banner = ({setSearch}) => {
                 <div>
 
                     <form onSubmit={handleSubmit}>
-                    <input className="search-bar pl-2" type="text" name="category" id="" placeholder="Search here..." />
+                    <input className="search-bar pl-2" type="text" name="category" id="" placeholder="Search by category..." />
                     <input className="search-btn bg-red-900 text-white" type="submit" value="Submit" />
                     </form>
 
