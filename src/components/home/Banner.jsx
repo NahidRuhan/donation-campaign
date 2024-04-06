@@ -1,10 +1,13 @@
 
-const Banner = () => {
+const Banner = ({setSearch}) => {
 
 
     const handleSubmit = (e)=>{
 
         e.preventDefault();  //prevents from reloading the page
+        const name = e.target.category.value;
+        setSearch(name);
+        e.target.category.value = "";
 
     }
 
@@ -21,7 +24,7 @@ const Banner = () => {
                 <div>
 
                     <form onSubmit={handleSubmit}>
-                    <input className="search-bar" type="text" name="category" id="" placeholder="Search here..." />
+                    <input className="search-bar pl-2" type="text" name="category" id="" placeholder="Search here..." />
                     <input className="search-btn bg-red-900 text-white" type="submit" value="Submit" />
                     </form>
 
